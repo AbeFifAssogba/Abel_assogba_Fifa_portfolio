@@ -11,17 +11,17 @@ Mon objectif : Relier la théorie et la pratique pour contribuer à la transitio
 
 ## 🚀 À propos de moi
 
-Étudiant ingénieur à l’ESIGELEC (France), spécialisé en électronique, électrotechnique et réseaux
+* Étudiant ingénieur à l’ESIGELEC (France), spécialisé en électronique, électrotechnique et réseaux
 
-. Expérience en exploitation de postes sources haute tension : manœuvres, maintenance, mise à jour de schémas électriques
+* Expérience en exploitation de postes sources haute tension : manœuvres, maintenance, mise à jour de schémas électriques
 
-. Projet académique sur la régulation en tension et en fréquence d’un alternateur sous MATLAB/Simulink
+* Projet académique sur la régulation en tension et en fréquence d’un alternateur sous MATLAB/Simulink
 
-. Concepteur d’un robot détecteur d’obstacles basé sur le microcontrôleur MSP430G253
+* Concepteur d’un robot détecteur d’obstacles basé sur le microcontrôleur MSP430G253
 
-. Professeur particulier en mathématiques et physique, avec une approche pédagogique orientée compréhension et rigueur
+* Professeur particulier en mathématiques et physique, avec une approche pédagogique orientée compréhension et rigueur
 
-. Passionné par la mobilité électrique, les infrastructures de recharge et la conversion d’énergie
+* Passionné par la mobilité électrique, les infrastructures de recharge et la conversion d’énergie
 
 ---
 
