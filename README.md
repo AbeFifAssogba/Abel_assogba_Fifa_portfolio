@@ -73,7 +73,7 @@ Python
 MATLAB
 Java
 SQL
-JavaScript / Node.js
+JavaScript
 ```
 
 ### 🔧 Logiciels & outils
@@ -83,14 +83,10 @@ MATLAB / Simulink
 LTspice
 PSIM
 PVSOL
-KiCad
-Altium Designer
 Code Composer Studio
-Arduino IDE
 TIA Portal
-AutoCAD
-SolidWorks
-See Electrical Expert
+AutoCAD Electrical
+E-tera
 ```
 
 ---
