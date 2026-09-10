@@ -5,21 +5,23 @@
 Je suis Abel ASSOGBA, étudiant ingénieur en Génie Électrique à l’ESIGELEC.
 Tu découvriras ici mon parcours, mes projets et mes ambitions dans le domaine de l’énergie, des systèmes électriques et de la mobilité électrique.
 
-Mon objectif : ** relier la théorie et la pratique pour contribuer à la transition énergétique et au développement des infrastructures électriques.**
+Mon objectif : Relier la théorie et la pratique pour contribuer à la transition énergétique et au développement des infrastructures électriques.
 
 ---
 
 ## 🚀 À propos de moi
 
-Je suis un futur ingénieur avec une approche très orientée **projet et mise en pratique**.
+Étudiant ingénieur à l’ESIGELEC (France), spécialisé en électronique, électrotechnique et réseaux
 
-Au cours de ma formation, j’ai travaillé sur des problématiques allant de la **conversion d’énergie** à la **commande de systèmes électriques**, en passant par l’électronique de puissance, les microcontrôleurs et les systèmes photovoltaïques.
+. Expérience en exploitation de postes sources haute tension : manœuvres, maintenance, mise à jour de schémas électriques
 
-J’aime particulièrement transformer un problème physique en :
+. Projet académique sur la régulation en tension et en fréquence d’un alternateur sous MATLAB/Simulink
 
-**Modèle → Simulation → Commande → Prototype → Résultat**
+. Concepteur d’un robot détecteur d’obstacles basé sur le microcontrôleur MSP430G253
 
-Je cherche aujourd’hui à approfondir mes compétences dans des environnements industriels liés au **génie électrique, à l’énergie, aux infrastructures électriques, à l’automatisation et aux systèmes de transport électrique.**
+. Professeur particulier en mathématiques et physique, avec une approche pédagogique orientée compréhension et rigueur
+
+. Passionné par la mobilité électrique, les infrastructures de recharge et la conversion d’énergie
 
 ---
 
