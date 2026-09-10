@@ -115,19 +115,26 @@ Tu peux consulter mon rapport complet ici :
 
 ---
 
-## 🔋 DC–DC Step-Down Converter
+🤖 Robot suiveur de ligne avec détection d’obstacles
+Technologies : MSP430G253 · Systèmes embarqués · Programmation en C
 
-**Électronique de puissance · LTspice · Prototypage**
-
-Conception et simulation d’un convertisseur **Buck** destiné à adapter une tension continue.
+Ce projet avait pour objectif de concevoir un robot autonome capable de suivre une ligne tracée au sol, de s’arrêter automatiquement devant un obstacle et de respecter une contrainte de temps pour s’arrêter dans une zone définie.
 
 ### Travaux réalisés
+Conception électronique : intégration de capteurs pour la détection de la ligne et des obstacles.
 
-* Dimensionnement du convertisseur
-* Simulation sous LTspice
-* Étude des formes d’ondes
-* Analyse du rendement
-* Réalisation d'un prototype
+Programmation embarquée : développement en langage C sur le microcontrôleur MSP430G253 pour gérer la logique de déplacement et d’arrêt.
+
+Commande du déplacement : algorithme permettant au robot de poursuivre la trajectoire imposée et de stopper son mouvement en cas d’obstacle ou à l’arrivée dans la zone cible.
+
+Prototypage : réalisation d’un prototype fonctionnel démontrant la capacité du robot à suivre une ligne et à respecter des contraintes de sécurité et de temps.
+
+Résultats
+Prototype opérationnel capable de suivre une ligne et de s’arrêter devant un obstacle.
+
+Validation de la contrainte temporelle pour l’arrêt dans une zone prédéfinie.
+
+Mise en pratique des compétences en programmation embarquée, capteurs/actionneurs et commande de systèmes autonomes.
 
 ---
 
