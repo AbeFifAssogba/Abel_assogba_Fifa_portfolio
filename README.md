@@ -109,6 +109,8 @@ Modélisation et commande d'un système de production d'énergie avec pour objec
 * Comparaison des performances des différentes stratégies
 
 > 🎯 Objectif : développer une commande robuste permettant d’assurer la stabilité de la tension de l’alternateur.
+Tu peux consulter mon rapport complet ici :
+
 
 ---
 
