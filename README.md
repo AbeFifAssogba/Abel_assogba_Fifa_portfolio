@@ -1,10 +1,11 @@
-# 👋 Bonjour, moi c’est Abel ASSOGBA
+# 👋 Bienvenue sur mon portfolio
 
 ### ⚡ Étudiant ingénieur en Génie Électrique | Énergie · Automatique · Systèmes embarqués
 
-🎓 Étudiant en cycle ingénieur à **ESIGELEC**, spécialisé en **Génie électrique et Transport**, je m’intéresse particulièrement aux systèmes électriques, à la production et à la conversion d’énergie, à l’automatique et aux systèmes embarqués.
+Je suis Abel ASSOGBA, étudiant ingénieur en Génie Électrique à l’ESIGELEC.
+Tu découvriras ici mon parcours, mes projets et mes ambitions dans le domaine de l’énergie, des systèmes électriques et de la mobilité électrique.
 
-Mon objectif : **comprendre les systèmes électriques de bout en bout, les modéliser, les contrôler et contribuer à leur amélioration.**
+Mon objectif : ** relier la théorie et la pratique pour contribuer à la transition énergétique et au développement des infrastructures électriques.**
 
 ---
 
