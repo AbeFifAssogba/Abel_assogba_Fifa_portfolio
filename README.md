@@ -115,7 +115,7 @@ Tu peux consulter mon rapport complet ici :
 
 ---
 
-🤖 Robot suiveur de ligne avec détection d’obstacles
+## 🤖 Robot suiveur de ligne avec détection d’obstacles
 Technologies : MSP430G253 · Systèmes embarqués · Programmation en C
 
 Ce projet avait pour objectif de concevoir un robot autonome capable de suivre une ligne tracée au sol, de s’arrêter automatiquement devant un obstacle et de respecter une contrainte de temps pour s’arrêter dans une zone définie.
@@ -129,46 +129,12 @@ Commande du déplacement : algorithme permettant au robot de poursuivre la traje
 
 Prototypage : réalisation d’un prototype fonctionnel démontrant la capacité du robot à suivre une ligne et à respecter des contraintes de sécurité et de temps.
 
-Résultats
+> Résultats
 Prototype opérationnel capable de suivre une ligne et de s’arrêter devant un obstacle.
 
 Validation de la contrainte temporelle pour l’arrêt dans une zone prédéfinie.
 
 Mise en pratique des compétences en programmation embarquée, capteurs/actionneurs et commande de systèmes autonomes.
-
----
-
-## ☀️ Autonomous Solar Power System
-
-**Photovoltaïque · Batterie Li-ion · Gestion de l’énergie**
-
-Conception d’un système autonome de production et de stockage d’énergie solaire.
-
-### Travaux réalisés
-
-* Étude de la production photovoltaïque
-* Gestion de la charge d'une batterie Li-ion
-* Analyse des besoins énergétiques
-* Dimensionnement du système
-* Réflexion sur l’autonomie et la gestion de l’énergie
-
----
-
-## 💡 Smart Lighting Automation
-
-**Arduino · Capteurs · Automatique**
-
-Développement d’un système d’éclairage intelligent capable d’adapter automatiquement l’éclairage en fonction de la présence et de la luminosité ambiante.
-
-### Technologies
-
-* Arduino
-* Capteur de mouvement
-* Capteur de luminosité
-* Programmation embarquée
-* Automatisation
-
-> 🎯 Objectif : réduire la consommation énergétique tout en améliorant l’automatisation du système d’éclairage.
 
 ---
 
@@ -244,7 +210,6 @@ Je suis toujours ouvert aux échanges avec des étudiants, ingénieurs, recruteu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge\&logo=github)](https://github.com/)
 
 ---
 
