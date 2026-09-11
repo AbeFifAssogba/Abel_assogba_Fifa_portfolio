@@ -152,17 +152,6 @@ Ce portfolio rassemble progressivement mes travaux dans plusieurs domaines :
 ├── 🤖 Embedded Systems
 └── 🚗 Electric Mobility
 ```
-
-Chaque projet a vocation à présenter :
-
-**1. Le problème**
-**2. L’approche utilisée**
-**3. Les calculs / modèles**
-**4. Les simulations**
-**5. Le développement**
-**6. Les résultats**
-**7. Les limites et améliorations possibles**
-
 ---
 
 # 📈 Currently learning
@@ -200,7 +189,13 @@ Je suis toujours ouvert aux échanges avec des étudiants, ingénieurs, recruteu
 
 ### 💼 Opportunités recherchées
 
-**Stage · Alternance · Projet industriel · Collaboration technique**
+**
+- Véhicules électriques et infrastructures de recharge (IRVE)  
+- Électronique de puissance et commande de convertisseurs  
+- Batteries et systèmes BMS (Battery Management System)  
+- Traction électrique et motorisation  
+- Smart grids et intégration réseau  
+**
 
 📍 Mobilité : **France entière**
 
@@ -208,7 +203,7 @@ Je suis toujours ouvert aux échanges avec des étudiants, ingénieurs, recruteu
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https:www.linkedin.com/in/abel-assogba)
 
 
 ---
